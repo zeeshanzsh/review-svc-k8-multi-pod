@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: review
+      host: ${HOST_NAME}
+      port: 27017
