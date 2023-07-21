@@ -36,7 +36,7 @@ kubectl logs <pod-name>
 
 # Access the Node from internet
 
-**step 1:**
+**Step 1:**
 
 ```agsl
 kubectl get all
